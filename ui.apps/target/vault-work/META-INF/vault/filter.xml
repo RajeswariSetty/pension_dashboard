@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/pensiondashboard">
+        <exclude pattern="/apps/pensiondashboard/install" />
+    </filter>
+    <filter root="/apps/sling" />
+    <filter root="/etc/designs/pensiondashboard"/>
+</workspaceFilter>
