@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
 extraProperties=
-projectKey=com.insurance\:pensiondashboard.ui.apps
+projectKey=org.hackathon.aemtcs\:pensiondashboard.ui.apps
 serverUrl=http\://localhost\:9000
 version=2

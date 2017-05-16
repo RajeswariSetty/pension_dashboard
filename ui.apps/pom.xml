@@ -20,7 +20,7 @@
     <!-- P A R E N T  P R O J E C T  D E S C R I P T I O N                      -->
     <!-- ====================================================================== -->
     <parent>
-        <groupId>com.insurance</groupId>
+        <groupId>org.hackathon.aemtcs</groupId>
         <artifactId>pensiondashboard</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
@@ -120,7 +120,7 @@
                     <group>pensiondashboard Content Package</group>
                     <embeddeds>
                         <embedded>
-                            <groupId>com.insurance</groupId>
+                            <groupId>org.hackathon.aemtcs</groupId>
                             <artifactId>pensiondashboard.core</artifactId>
                             <target>/apps/pensiondashboard/install</target>
                         </embedded>
@@ -193,7 +193,7 @@
     <!-- ====================================================================== -->
     <dependencies>
         <dependency>
-            <groupId>com.insurance</groupId>
+            <groupId>org.hackathon.aemtcs</groupId>
             <artifactId>pensiondashboard.core</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
