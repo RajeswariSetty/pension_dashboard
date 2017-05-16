@@ -1,6 +1,0 @@
-com\insurance\pensiondashboard\core\servlets\SimpleServlet.class
-com\insurance\pensiondashboard\core\models\HelloWorldModel.class
-com\insurance\pensiondashboard\core\listeners\SimpleResourceListener.class
-com\insurance\pensiondashboard\core\schedulers\SimpleScheduledTask.class
-com\insurance\pensiondashboard\core\package-info.class
-com\insurance\pensiondashboard\core\filters\LoggingFilter.class
