@@ -3,6 +3,7 @@
     <filter root="/apps/pensiondashboard">
         <exclude pattern="/apps/pensiondashboard/install" />
     </filter>
-    <filter root="/apps/sling" />
-    <filter root="/etc/designs/pensiondashboard"/>
+    
+    <filter root="/etc/clientlibs/pensiondashboard"/>
+    
 </workspaceFilter>

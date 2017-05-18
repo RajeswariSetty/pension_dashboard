@@ -1,0 +1,11 @@
+body {
+  padding-top: 50px;
+}
+
+.login-form {
+    margin-top: 20px
+}
+
+.cq-cc-profile-not-anonymous, .cq-cc-profile-anonymous {
+    display: none;
+}
