@@ -25,3 +25,4 @@ pageContext.setAttribute("homePage", homePage);
      
 </form>
 
+<cq:includeClientLib js="login.main"/>
